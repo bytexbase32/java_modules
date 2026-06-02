@@ -55,5 +55,6 @@ public class Program {
             }
             System.out.println(">");
         }
+        scanner.close();
     }
 }
